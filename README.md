@@ -1,2 +1,3 @@
 # bookbot
-A program to count and display the occurences of an alphanumeric character in a piece of text.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
